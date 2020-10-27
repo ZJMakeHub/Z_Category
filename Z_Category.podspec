@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "Z_Category"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "使用block替代监听点击"
 
   # This description is used to generate tags and improve search results.
